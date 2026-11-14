@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://aaquibumar.github.io/freestream-tv-guide/sitemap.xml
