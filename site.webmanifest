@@ -1,0 +1,10 @@
+{
+  "name": "FreeStream TV Guide",
+  "short_name": "FreeStream TV",
+  "start_url": "/freestream-tv-guide/",
+  "scope": "/freestream-tv-guide/",
+  "display": "standalone",
+  "background_color": "#090b13",
+  "theme_color": "#090b13",
+  "description": "A directory of streaming apps and utilities for Android TV and Google TV."
+}
